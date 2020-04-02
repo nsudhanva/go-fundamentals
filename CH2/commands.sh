@@ -16,3 +16,5 @@ go run hello.go
 go mod init
 
 go run github.com/nsudhanva/go-fundamentals
+
+go run .
